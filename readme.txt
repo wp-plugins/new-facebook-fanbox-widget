@@ -51,6 +51,8 @@ Installing this plugin is pretty simple like all other wordpress plugins. Here a
 
 1. screen 1
 2. screen 2
+3. screen 3
+4. screen 4
 
 == Changelog === 
 
